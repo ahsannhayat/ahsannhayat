@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi there!
 
+<p align="center">
+  <img src="download%20(3).jpg" alt="Ahsan Hayat Banner" width="100%">
+</p>
+
+# Ahsan Hayat | BSCS Student 👋
 <!--
 **ahsannhayat/ahsannhayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
